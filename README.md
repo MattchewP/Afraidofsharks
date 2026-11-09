@@ -1,6 +1,6 @@
 # Afraidofsharks 🦈
 
-Welcome to **Afraidofsharks**! This project is designed to help you navigate, dodge, and conquer the deep blue waters while keeping those fearsome predators at bay.
+Welcome to **Afraidofsharks**! This project is designed to help you navigate, dodge, and conquer the deep blue waters of Wireshark while keeping those fearsome predators at bay.
 
 ---
 
