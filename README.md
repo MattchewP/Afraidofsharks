@@ -48,7 +48,3 @@ Contributions are always welcome! Whether it's reporting a bug, improving docume
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
